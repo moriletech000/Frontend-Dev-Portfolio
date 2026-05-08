@@ -45,9 +45,9 @@ Colors are defined as CSS variables at the top of `style.css` and can be adjuste
 
 ```
 portfolio/
-├── index.html
-├── style.css
-└── README.md
+ index.html
+ style.css
+ README.md
 ```
 
 ## Contact
